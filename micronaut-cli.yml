@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: no.content
+---
+testFramework: junit
+sourceLanguage: java
